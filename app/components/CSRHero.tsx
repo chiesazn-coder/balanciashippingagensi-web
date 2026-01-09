@@ -6,7 +6,7 @@ export default function CSRHero() {
       <div className="relative h-[500px] md:h-[650px] w-full">
         {/* Background Image: Foto pelepasan penyu dalam batok kelapa */}
         <Image
-          src="/csr-hero.jpg" // Pastikan gambar ini ada di folder public
+          src="/csr-hero-2.png" // Pastikan gambar ini ada di folder public
           alt="Corporate Social Responsibility Balancia"
           fill
           className="object-cover object-center"
